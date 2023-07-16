@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shrasti12
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Web development and programming 
 - 🌱 I’m currently learning CSE Data Science from NIET
